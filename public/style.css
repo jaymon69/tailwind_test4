@@ -548,3 +548,7 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(13 148 136 / var(--tw-bg-opacity));
 }
+
+.text-center {
+  text-align: center;
+}
